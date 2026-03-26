@@ -191,26 +191,10 @@
 { id: '38', title: "Clone now", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/clone_now_swod5x.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/clone_now_hpsoeh.mp3" }
 { id: '39', title: "Swipe Left Swipe Right", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/Swipe_left_swipe_right_bg6fqs.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Swipe_left_Swipe_Right_o9azb0.mp3" }
 { id: '40', title: "Pyramid", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/pyramid_dh45zb.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Pyramid_mqj7uo.mp3" }
-{ id: '41', title: "The last line of Life", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '42', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '43', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '44', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '45', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '46', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '47', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-
-
-
-
-
-
-
-
-
-
-
-
-
+{ id: '41', title: "The last line of Life", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/The_last_line_of_life_wvn7rc.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/The_last_line_of_life_cteuua.mp3" }
+{ id: '42', title: "Oxytocin", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/oxytocin-Cover_wmj1bt.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/oxytocin_ddwen9.mp3" }
+{ id: '43', title: "Booster", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/3772e78a-706d-467d-8a28-582942757494_cljx8v.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/BOOSTER_vespra.mp3" }
+{ id: '44', title: "Level Up", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/LEVEL_UP_ldxrhg.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/LEVEL_UP_vn2vnr.mp3" }
 
 ];
 
