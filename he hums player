@@ -173,22 +173,23 @@
 { id: '20', title: "Hello Brother (Tvd tribute)", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/Hello_Brother_bqilsj.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Hello_Brother_Tvd_Tribute_zi4ob7.mp3" }
 { id: '21', title: "We gonna catch you (Bikini Bottom PD)", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/bb1_wtz3i3.jpg", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/We_gonna_catch_you_Bikini_Bottom_PD_jse8ei.mp3" }
 { id: '22', title: "Dattebayo", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/Dattebayo_zonxwx.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Dattebayo_ekvjog.mp3" }
-{ id: '23', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '24', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '25', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-{ id: '26', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
-
-
-
-
-
-
-
-
-
-
-
-
+{ id: '23', title: "Different Baller wc26", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/DIFFERENT_BALLER_i34juw.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Differnt_Baller_wc26_iby5ag.mp3" }
+{ id: '24', title: "LeTtEr_ To_ UpGrAdE.txt", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/Letertoupgrae_u8j5ut.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Letter_to_Upgradetxt_kifajd.mp3" }
+{ id: '25', title: "Yuruse Sasuke", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/yurese_xfhv4i.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Yuruse_Sasuke_wpt2d4.mp3" }
+{ id: '26', title: "Need more spice", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/jolloff_t7qo6w.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Need_more_spice_e4x2kl.mp3" }
+{ id: '27', title: "Mama warned Me", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/ab2ad1d0-c57b-41b2-966e-6838b1a04ed1_ggydw1.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Mama_Warned_Me_yliz1z.mp3" }
+{ id: '28', title: "Two Kings one throne", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/7f768a57f3f0160cef2c264a3f5360e4_aknqha.jpg", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_Kings_One_Throne_d6pnrf.mp3" }
+{ id: '29', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '30', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '31', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '32', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '33', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '34', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '35', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '36', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '37', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '38', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
+{ id: '39', title: "Two prayers", artist: "He hums", cover: "https://res.cloudinary.com/dfwtwtbos/image/upload/v1774531378/two_player_taah6o.png", src: "https://res.cloudinary.com/dfwtwtbos/video/upload/v1774531225/Two_prayers_dbcnnx.mp3" }
 
 
 
